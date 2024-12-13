@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **@salva-sassa**
+# 👋 Hi, I'm **Salvador Sassatelli**
 
 Passionate about building **intuitive web experiences** and exploring the power of **AI**. I craft solutions with **Next.js**, **TailwindCSS**, and **Django**, and I’m always diving into **machine learning** and **deep learning models**.
 
